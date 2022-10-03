@@ -1,0 +1,12 @@
+There are 60 seconds in 1 minute.
+There are 3600 seconds in 1 hour.
+There are 86400 seconds in 1 day.
+
+There are 60 minutes in 1 hour.
+There are 1440 minutes in 1 day.
+
+There are 24 hours in 1 day.
+
+The hours are calculated by finding every 3600 seconds.
+The minutes are calculated by finding every 60 seconds.
+The AM/PM is calculated by finding the 43200 mark in the day.  If >= 43200, it is P.M.
